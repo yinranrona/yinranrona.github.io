@@ -1,8 +1,0 @@
----
-layout: post
-title:  "This is a test"
-date:   2020-06-21 21:00:41 +0900
-categories: Test
----
-
-Hello EveryOne!
